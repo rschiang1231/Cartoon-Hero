@@ -11,5 +11,9 @@ h1{
 
 header img{
 	border-radius: 150px;
-	
+	border: 20px solid #CC0000;
+}
+
+div img{
+	height: 200px;
 }
