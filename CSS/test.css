@@ -1,0 +1,17 @@
+body{
+	background-color: lightgrey;
+}
+
+h1{
+	color:purple;
+	font-size:90px;
+	text-decoration: underline;
+}
+h2{
+	color:yellow;
+	font-size:100px;
+}
+
+.small{
+	font-size: 12px;
+}
