@@ -1,3 +1,8 @@
+html, body{
+	font-family: Arial;
+	margin: 0;
+}
+
 header{
 	background-color:#00004C;
 	padding: 40px;
@@ -16,4 +21,25 @@ header img{
 
 div img{
 	height: 200px;
+}
+
+.content{
+	margin:0 auto;
+	max-width:400px;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px
+	color:lightgrey;
+	font-style: italic;
+}
+
+a{
+	color: red;
+	text-decoration: none;
 }
